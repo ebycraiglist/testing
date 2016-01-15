@@ -2,7 +2,7 @@
   "objects": [
       {
       "connectionString": "jdbc:xxxxxxx",
-      "*password": "password-01",
+      "*password": "<fill here>",
       "name": "upstart-dev-database",
       "jdbcDriverJarUri": "s3://data-engineering-production/data-sources/postgres-heroku/driver/postgresql-9.4-1205.jdbc4.jar",
       "id": "DatabaseId_2ufvv",
