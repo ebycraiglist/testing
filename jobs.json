@@ -7,8 +7,7 @@
       "jdbcDriverJarUri": "s3://data-engineering-production/data-sources/postgres-heroku/driver/postgresql-9.4-1205.jdbc4.jar",
       "id": "DatabaseId_2ufvv",
       "type": "JdbcDatabase",
-      "jdbcDriverClass": "org.postgresql.Driver",
-      "username": "user01"
+      "jdbcDriverClass": "org.postgresql.Driver"
     }
     ]
 }    
